@@ -2,7 +2,7 @@
 ![](executive_summary.JPG)
 
 # Introduction
-This project analyzes Adidas’ US sales performance in 2021 to understand the key drivers of revenue, demand, and profitability. Using interactive Power BI dashboards, the analysis examines sales trends across products, sales channels, and geographic regions, with the goal of turning raw sales data into actionable business insights. The findings highlight where Adidas is performing strongly and where strategic opportunities exist to optimize growth and efficiency.
+This project analyzes Adidas’ US sales performance in two years to understand the key drivers of revenue, demand, and profitability. Using interactive Power BI dashboards, the analysis examines sales trends across products, sales channels, and geographic regions, with the goal of turning raw sales data into actionable business insights. The findings highlight where Adidas is performing strongly and where strategic opportunities exist to optimize growth and efficiency.
 # Problem Statement
   - Despite recording strong overall sales, Adidas faces several strategic questions that cannot be answered by topline revenue alone:
     - Which product categories are truly driving both sales volume and profitability?
@@ -122,3 +122,68 @@ THis shows the efficinecy of Each products.
     - Lowest: Women's Street Footwear
 This shows which product is selling at which location
 # Recommendation
+## Product Strategy
+- Focus more on Men’s Street Footwear
+  - Always keep this product well stocked
+  - Spend more on marketing this product
+  - Release new designs and limited editions regularly
+- Grow Women’s Apparel and Men’s Athletic Footwear
+  - Expand products variety
+  - Promote them in regions where demand is already strong
+- Improve low-performing products
+  - Review the prices
+  - Improve design or comfort
+  - Bundle it with popular products to increase sales
+## Sales Channel Recomendation
+- Protect in-store sales
+  - Sell premium and high-margin products in stores
+  - Train staff to upsell and recommend better products
+  - Avoid too many discounts in stores
+- Use online sales to sell more units
+  - Use online channels for promotions and volume sales
+  - Avoid heavy discounts on premium products
+  - Use flash sales instead of constant price cuts
+- Use outlet stores for inventory control
+  - Use outlets to clear slow-moving products
+  - Avoid selling top-profit products at heavy discounts
+## Regional Recommendations
+- Strengthen the West region
+  - Send more inventory to the West
+  - Launch new products there first
+  - Increase regional marketing efforts
+- Grow the Northeast and Southeast
+  - Increase product availability
+  - Offer region-specific promotions
+  - Focus on top-selling products
+- Improve the Midwest carefully
+  - Focus more on online sales
+  - Promote only best-selling products
+  - Avoid over-stocking physical stores
+## Pricing and Customer Demand
+- Match pricing to how customers buy
+  - Keep prices competitive online
+  - Maintain premium pricing in stores
+  - Use discounts mainly in outlets
+- Avoid long-term discounts
+  - Use short promotions
+  - Time discounts during low-demand months
+## Profit and Efficiency Improvements
+- Invest more in high-margin products
+  - Prioritize Products with higher margins in marketing and supply
+- Fix lower-margin products
+  - Reduce production costs
+  - Adjust pricing slightly where possible
+## City-Level Recommendations
+- Protect top cities
+  - Keep stores well stocked in cities that spend the most
+  - Use them to test new products
+- Customize products by region
+  - Promote men’s footwear nationwide
+  - Adjust women’s product focus by region based on demand
+# Conclusion
+This analysis shows that Adidas’ US sales are mainly driven by a few strong products, key regions, and the right sales channels. Men’s Street Footwear and Women’s Apparel bring in the most revenue and profit, while physical stores generate higher-value sales, even though more units are sold online. The West region and major cities lead in spending, while other regions still have room to grow.
+
+Overall, the best path forward is to focus more on what already works, protect profit from high-performing products and stores, and use targeted strategies to improve weaker products and regions. Making decisions based on these insights will help Adidas grow sales without hurting profitability.
+
+-- 
+You can interact with the Dashboard [here](https://app.powerbi.com/groups/me/reports/9385c2a1-b966-449c-814f-7e8197eae4c6/cde62626a87742773b78?experience=power-bi&clientSideAuth=0)
